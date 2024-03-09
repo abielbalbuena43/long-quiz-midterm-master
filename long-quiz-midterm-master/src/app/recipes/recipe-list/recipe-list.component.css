@@ -1,0 +1,29 @@
+
+.row {
+    margin-bottom: 15px;
+  }
+  
+  .btn-success {
+    margin-bottom: 15px;
+  }
+  
+  .list-group-item {
+    cursor: pointer;
+  }
+  
+  .list-group-item:hover {
+    background-color: #f8f9fa;
+  }
+  
+  .list-group-item-heading {
+    font-size: 18px;
+  }
+  
+  .list-group-item-text {
+    font-size: 14px;
+  }
+  
+  .img-responsive {
+    max-height: 50px;
+  }
+  
